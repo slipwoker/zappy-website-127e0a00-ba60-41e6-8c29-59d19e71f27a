@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://-127e0a00.zappy5.app/sitemap.xml
+Sitemap: https://uzi-tapuzi.zappy5.app/sitemap.xml
